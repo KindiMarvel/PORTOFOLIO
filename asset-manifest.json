@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9f35fc4.css",
+    "main.js": "/static/js/main.fafeb240.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/logo.png": "/static/media/logo.53476991f47bbdc9d7bb.png",
+    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/CV-Kindi_Janu_Fario.pdf": "/static/media/CV-Kindi_Janu_Fario.e88767964dd311ffd678.pdf",
+    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/Docker.svg": "/static/media/Docker.e66b6dcb6f3f435cf76e5ad948b9bff7.svg",
+    "static/media/vscode.svg": "/static/media/vscode.f5afdf1c4c0b365325db1e067c48782d.svg",
+    "static/media/Google Chrome.svg": "/static/media/Google Chrome.e4cb7a8170c050a508f0bb06b5606529.svg",
+    "static/media/Python.svg": "/static/media/Python.9daed22c470296a63e19d0d509a1828b.svg",
+    "static/media/React.svg": "/static/media/React.fa17b44468fe3c157fc20898567de2b4.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/Chatgpt.svg": "/static/media/Chatgpt.83b6585b439d42da660b60a80a027447.svg",
+    "index.html": "/index.html",
+    "static/media/Java.svg": "/static/media/Java.980d8e77e92511acfefbf2dfdf4336e1.svg",
+    "static/media/Node.svg": "/static/media/Node.4ccf66deab4cce38fa6a744e962daa9f.svg",
+    "static/media/C++.svg": "/static/media/C++.90772619f39a0a3b04f60ee5c827c002.svg",
+    "static/media/Javascript.svg": "/static/media/Javascript.dcff0bf09e6c5ffc3eaea9cc7ec4c8f5.svg",
+    "static/media/Git.svg": "/static/media/Git.9fbdd94cab5e68fd45b434fd29b1bb5e.svg",
+    "static/media/Tailwind.svg": "/static/media/Tailwind.24603c32961e3bfa937c29527c7931cb.svg",
+    "static/media/Css.svg": "/static/media/Css.129fb140430dca3c604b9e2921cfd734.svg",
+    "static/media/Html.svg": "/static/media/Html.3e98a577691d13e0fcb42d5b9590474f.svg",
+    "static/media/Windows.svg": "/static/media/Windows.f66d9714aebda49a63a176df2a43886a.svg",
+    "main.f9f35fc4.css.map": "/static/css/main.f9f35fc4.css.map",
+    "main.fafeb240.js.map": "/static/js/main.fafeb240.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9f35fc4.css",
+    "static/js/main.fafeb240.js"
+  ]
+}
