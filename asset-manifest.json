@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/PORTOFOLIO/static/css/main.6dc088ef.css",
-    "main.js": "/PORTOFOLIO/static/js/main.2860f7a0.js",
+    "main.js": "/PORTOFOLIO/static/js/main.ccfa4271.js",
     "static/js/453.ace21015.chunk.js": "/PORTOFOLIO/static/js/453.ace21015.chunk.js",
-    "static/media/CV-Kindi_Janu_Fario.pdf": "/PORTOFOLIO/static/media/CV-Kindi_Janu_Fario.313d7331067d8113f255.pdf",
+    "static/media/CV-Kindi_Janu_Fario.pdf": "/PORTOFOLIO/static/media/CV-Kindi_Janu_Fario.3382d751db5986cc3b7a.pdf",
     "static/media/logo.png": "/PORTOFOLIO/static/media/logo.53476991f47bbdc9d7bb.png",
     "static/media/leaf.png": "/PORTOFOLIO/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/PORTOFOLIO/static/media/emotion.eabfc16e7a146ab15778.png",
@@ -32,11 +32,11 @@
     "static/media/Html.svg": "/PORTOFOLIO/static/media/Html.3e98a577691d13e0fcb42d5b9590474f.svg",
     "static/media/Windows.svg": "/PORTOFOLIO/static/media/Windows.f66d9714aebda49a63a176df2a43886a.svg",
     "main.6dc088ef.css.map": "/PORTOFOLIO/static/css/main.6dc088ef.css.map",
-    "main.2860f7a0.js.map": "/PORTOFOLIO/static/js/main.2860f7a0.js.map",
+    "main.ccfa4271.js.map": "/PORTOFOLIO/static/js/main.ccfa4271.js.map",
     "453.ace21015.chunk.js.map": "/PORTOFOLIO/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6dc088ef.css",
-    "static/js/main.2860f7a0.js"
+    "static/js/main.ccfa4271.js"
   ]
 }
